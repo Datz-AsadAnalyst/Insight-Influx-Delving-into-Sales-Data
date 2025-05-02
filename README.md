@@ -48,6 +48,7 @@ Before visualization, the raw dataset was refined by:
 | 💰 Cost vs Sales vs Profit | Financial performance overview |
 | 🔘 Slicers | Dynamic filters (Region, Time Period, Delivery Personnel) |
 
+
 ## 🔍 Key Insights
 **🏆 Top Region:** North West led in overall revenue.
 
@@ -79,6 +80,6 @@ This Excel dashboard isn’t just a visual tool—it's a decision-making engine.
 
 ## 🔖 Tags
 #ExcelDashboard #DataAnalytics #SalesAnalysis #BusinessIntelligence #StorytellingWithData
-## Collaborate
-💬 Want to Collaborate?
+## 💬 Collaborate
+ Want to Collaborate?
 If you’re interested in data storytelling, dashboard design, or business intelligence projects, feel free to connect or fork the repo!
